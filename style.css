@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+}
+
+main{
+    padding: 10%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+header {
+    padding-left: 2%;
+    padding-right: 2%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(61, 112, 163);    
+}
+
+
+h1 {
+    display: inline;
+}
+
+
+nav {
+    margin-top: 32px;
+}
+
+a{
+    text-decoration: underline;
+}
+
+.top-box{
+    display: flex;
+    
+}
+
+.right-column{
+    padding-left: 2%;
+}
+
+.headline{
+    display: flex;
+}
+
+.headline-contents{
+    padding-left: 2%;
+}
+h4, h5{
+        font-weight: bold;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(61, 112, 163);  
+}
